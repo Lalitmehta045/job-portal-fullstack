@@ -4,7 +4,6 @@ client/node_modules/
 server/node_modules/
 
 # Environment variables
-.env
 client/.env
 server/.env
 *.env.local
@@ -44,3 +43,4 @@ listTitles.js
 testApi.js
 validateSalary.js
 db_output.txt
+config.bat
